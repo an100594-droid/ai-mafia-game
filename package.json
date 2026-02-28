@@ -1,0 +1,1 @@
+{"name": "ai-mafia-game","version": "1.0.0","description": "A simple Mafia game playable on web and mobile","main": "server.js","scripts": {"start": "node server.js","dev": "node server.js"},"keywords": ["mafia","game","web"],"author": "an100594-droid","license": "MIT","dependencies": {"express": "^4.18.2","ws": "^8.13.0"}}
